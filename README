@@ -1,21 +1,21 @@
-Gecko/WebKit���g����Web�u���E�U Bagel2
+Gecko/WebKitを使ったWebブラウザ Bagel2
 
-��������
+■推奨環境
 OS:
-Windows Vista�ȍ~ / KDE / Gnome + Compiz
-���������ʂ𑽗p���܂��DLinux�Ȃǂ̏ꍇ��Compiz�܂���KWin�̃f�X�N�g�b�v���ʂ�L���ɂ��Ă��������D
+Windows Vista以降 / KDE / Gnome + Compiz
+半透明効果を多用します．Linuxなどの場合はCompizまたはKWinのデスクトップ効果を有効にしてください．
 
-�f�B�X�v���C�𑜓x:
-WXGA�ȏ�
+ディスプレイ解像度:
+WXGA以上
 
 CPU:
-Core 2 Duo 1.6GHz�ȏ�
+Core 2 Duo 1.6GHz以上
 
-������:
-3GB�ȏ�
+メモリ:
+3GB以上
 
-�L�[�{�[�h:
-�g���b�N�|�C���g�܂��͂���ɏ�������̂̕t���Ă���L�[�{�[�h
+キーボード:
+トラックポイントまたはそれに準じるものの付いているキーボード
 
-�X�g���[�W:
-�D���Ȃ��������C�D���Ȃ�������
+ストレージ:
+好きなだけ多く，好きなだけ速く
